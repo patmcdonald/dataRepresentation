@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <library>
-  <books-catalogue>
-    <technical-books>
-    <technical-books/>
-    
-    <cookery-books>
-    <cookery-books/>
-  <books-catalogue/>
+  <books_catalogue>
+      <technical_books>
+        <book>
+          <ISBN></ISBN>
+          <title></title>
+          <author></author>
+        </book>
+      </technical_books>
+      
+      <cookery-books>
+        <book>
+          <ISBN></ISBN>
+          <title></title>
+          <author></author>
+        </book>
+      </cookery-books>
+  </books_catalogue>
 <library/>
